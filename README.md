@@ -1,2 +1,2 @@
 # forge
-Forge is a sideloading utility for iOS
+Forge is a sideloading utility for iOS.
