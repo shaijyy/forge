@@ -6,7 +6,7 @@
 ![Platform](https://img.shields.io/badge/platform-Shortcuts%20--%20iOS%20%7C%20iPadOS-blue?style=plastic)
 
 > [!NOTE]
-> Forge is currently in active development at it's very first development phase. Downloads are currently unavailable.
+> Forge is in its earliest stages of active development. Downloads are currently unavailable.
 
 ---
 
